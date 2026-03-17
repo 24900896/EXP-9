@@ -1,4 +1,6 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
+# Name:Sandeep S
+# Reg No:212224203239
 # Aim:
 # To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
@@ -96,26 +98,32 @@ contract AIPoweredNegotiation {
 # Expected Output:
 Buyers submit offers, and the contract auto-negotiates the price.
 
-
 If the buyer’s offer is fair, the deal is executed.
-
 
 If the offer is too low, the contract suggests a counteroffer.
 
 
-
 # High-Level Overview:
 First-of-its-kind AI-powered pricing contract.
+<img width="1832" height="840" alt="image" src="https://github.com/user-attachments/assets/f8104775-5c79-4873-94ca-4ff1a58be48d" />
+
 
 
 Mimics real-world price negotiations using dynamic on-chain pricing.
+<img width="1830" height="841" alt="image" src="https://github.com/user-attachments/assets/89f71d71-d9bd-48b6-bb25-96e5203f5637" />
+
 
 
 Can be extended to AI oracles for real-time market data.
+<img width="1831" height="840" alt="image" src="https://github.com/user-attachments/assets/cc87ef55-806d-4446-a6ca-dcc000a39566" />
+
 
 
 Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
+<img width="1831" height="842" alt="image" src="https://github.com/user-attachments/assets/cef3b5d8-c892-417d-a29d-556bafae5015" />
+
 
 # RESULT:
+Thus AI-Powered smart contract for decentralized negotiation is executed successfully.
 
 
